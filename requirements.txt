@@ -1,0 +1,11 @@
+Requirements:
+1. python
+2. Django
+3. Mysql
+4. HTML, CSS, JavaScript
+Required python modules:
+1. mysqlclient - "pip install mysqlclient"
+2. pillow - "pip install pillow"
+
+
+
